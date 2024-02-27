@@ -59,3 +59,4 @@
 
   Ссылка на EXE файл: 
 https://drive.google.com/drive/folders/18_gXAV29AD0dxc_4l4U0Yr8OHrM93PLQ?usp=drive_link
+для корректной работы exe файла, он должен находиться в главной папке вместе с папкой buttons, audio и animations)
